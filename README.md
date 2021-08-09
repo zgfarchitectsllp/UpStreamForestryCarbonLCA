@@ -1,1 +1,2 @@
-UpStream Forestry Carbon & LCA Tool
+![UpStream Forestry Carbon & LCA Tool](UpStreamFCLCAT.png)
+
